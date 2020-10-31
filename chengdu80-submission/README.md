@@ -15,10 +15,12 @@ $ service postgresql start
 
 ### Frontend
 ```
-$ npm run start
+cd /home/ubuntu/chengdu80-frontend
+$ npm run start &
 ```
 
 ### Backend
 ```
-$ npm run start
+cd /home/ubuntu/chengdu80-backend
+$ npm run start &
 ```
