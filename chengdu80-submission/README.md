@@ -8,17 +8,17 @@
     - 8080: Backend (~/chengdu80-backend/)
     - 8081: Frontend (~/chengdu80-frontend/)
 
-## Account
-- login in with username `warren` and passwor `123456`
+### Postgres
+```
+$ service postgresql start
+```
 
 ### Frontend
 ```
-$ npm install
 $ npm run start
 ```
 
 ### Backend
 ```
-$ npm install
 $ npm run start
 ```
