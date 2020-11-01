@@ -10,7 +10,7 @@
 
 ### Postgres
 ```
-$ service postgresql start
+$ systemctl start postgresql
 ```
 
 ### Frontend
